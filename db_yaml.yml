@@ -1,0 +1,9 @@
+DDL :
+  - WAREHOUSE: CIP_WH_DEVELOPER_XL_PROD
+  - DATABASE: CIP_ODS_DEV
+  - SCHEMA: AWB2
+  - TABLE: 
+      - DIM_CONTENT_BRAND:
+          - CONTENT_BRAND_KEY varchar(16777216)
+          - CONTENT_BRAND_NAME varchar(16777216)
+          - ATT_FLG varchar(16777216)
